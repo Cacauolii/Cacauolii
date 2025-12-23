@@ -35,7 +35,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cs,postgres,git,github,vscode&perline=10" />
 </div>
 
-### 📊 Estatísticas (Geradas Localmente)
+### 📊 Estatísticas
 
 <div align="center">
   <img src="https://github.com/Cacauolii/Cacauolii/blob/main/profile-summary-card-output/tokyonight/0-profile-details.svg" height="160" />
@@ -47,7 +47,7 @@
 <br>
 
 
-### 🐍 Meus commits (Snake Game)
+### 🐍 Meus commits
 
 <div align="center">
   <img src="https://github.com/Cacauolii/Cacauolii/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
