@@ -35,19 +35,11 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cs,postgres,git,github,vscode&perline=10" />
 </div>
 
-### 🔥 Minhas Conquistas
-
+### 🐍 Meus commits (Snake Game)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cacauolii&theme=tokyonight&show_icons=true&hide_border=true" height="180" alt="stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cacauolii&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="langs" />
-
-  <br><br>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cacauolii&theme=tokyonight&hide_border=true" alt="streak" />
-
+  <img src="https://github.com/Cacauolii/Cacauolii/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://github.com/Cacauolii/Cacauolii/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+  <i>"O segredo do sucesso é sempre buscar se evoluir e se divertir."</i>
 </div>
