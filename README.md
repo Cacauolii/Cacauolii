@@ -37,10 +37,15 @@
 
 <br>
 
-### 📊 Estatísticas do GitHub
+### 🔥 Minha Sequência e Troféus
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Cacauolii&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cacauolii&layout=compact&langs_count=7&theme=dracula)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cacauolii&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  <br><br>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=Cacauolii&theme=tokyonight&no-frame=true&column=4&margin-w=15" width="100%" />
+</div>
 
 <br>
 
