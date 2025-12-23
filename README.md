@@ -23,7 +23,7 @@
   
   - 🔭 **Atualmente trabalhando em:** Projetos pessoais e acadêmicos.
   - 🌱 **Aprendendo:** Novas linguagens e boas práticas de desenvolvimento.
-  - 💡 **Interesses:** Desenvolvimento Web, Automação, Tecnologia e criação de jogos.
+  - 💡 **Interesses:** Desenvolvimento Full-Stack, Automação, Tecnologia e criação de jogos.
 
 </div>
 
@@ -40,10 +40,10 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cacauolii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cacauolii&layout=compact&langs_count=7&theme=tokyonight"/>
-  </div>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cacauolii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180" alt="stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cacauolii&layout=compact&langs_count=7&theme=dracula" height="180" alt="languages" />
+  </p>
 </div>
 
 <br>
