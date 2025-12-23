@@ -35,10 +35,14 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cs,postgres,git,github,vscode&perline=10" />
 </div>
 
+
+
 ### 🐍 Meus commits (Snake Game)
+
 <div align="center">
   <img src="https://github.com/Cacauolii/Cacauolii/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
 </div>
+
 
 <div align="center">
   <i>"O segredo do sucesso é sempre buscar se evoluir e se divertir."</i>
