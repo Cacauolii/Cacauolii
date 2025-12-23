@@ -32,7 +32,7 @@
 ### 🛠️ Tech Stack & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cs,postgresgit,github,vscode&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cs,postgres,git,github,vscode&perline=10" />
 </div>
 
 <br>
