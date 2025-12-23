@@ -35,7 +35,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cs,postgres,git,github,vscode&perline=10" />
 </div>
 
-<br>
 
 <div align="center">
   <img src="https://github.com/Cacauolii/Cacauolii/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
