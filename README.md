@@ -12,6 +12,9 @@
   <a href="https://github.com/Cacauolii" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   </a>
+  <a href="mailto:Cauantn112@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank">
+  </a>
   <br><br>
 
   ### 🚀 Sobre Mim
@@ -20,7 +23,7 @@
   
   - 🔭 **Atualmente trabalhando em:** Projetos pessoais e acadêmicos.
   - 🌱 **Aprendendo:** Novas linguagens e boas práticas de desenvolvimento.
-  - 💡 **Interesses:** Desenvolvimento Web, Automação e Tecnologia.
+  - 💡 **Interesses:** Desenvolvimento Web, Automação, Tecnologia e criação de jogos.
 
 </div>
 
@@ -29,7 +32,7 @@
 ### 🛠️ Tech Stack & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cs,postgresgit,github,vscode&perline=10" />
 </div>
 
 <br>
