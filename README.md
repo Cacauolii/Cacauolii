@@ -35,6 +35,16 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cs,postgres,git,github,vscode&perline=10" />
 </div>
 
+### 📊 Estatísticas (Geradas Localmente)
+
+<div align="center">
+  <img src="https://github.com/Cacauolii/Cacauolii/blob/main/profile-summary-card-output/tokyonight/0-profile-details.svg" height="160" />
+  <img src="https://github.com/Cacauolii/Cacauolii/blob/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="160" />
+  <br>
+  <img src="https://github.com/Cacauolii/Cacauolii/blob/main/profile-summary-card-output/tokyonight/3-stats.svg" height="160" />
+</div>
+
+<br>
 
 
 ### 🐍 Meus commits (Snake Game)
